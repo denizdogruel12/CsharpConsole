@@ -1,0 +1,7 @@
+C:\Users\deniz\source\repos\Consoleuygulamasi\Consoleuygulamasi\bin\Debug\Consoleuygulamasi.exe.config
+C:\Users\deniz\source\repos\Consoleuygulamasi\Consoleuygulamasi\bin\Debug\Consoleuygulamasi.exe
+C:\Users\deniz\source\repos\Consoleuygulamasi\Consoleuygulamasi\bin\Debug\Consoleuygulamasi.pdb
+C:\Users\deniz\source\repos\Consoleuygulamasi\Consoleuygulamasi\obj\Debug\Consoleuygulamasi.csproj.AssemblyReference.cache
+C:\Users\deniz\source\repos\Consoleuygulamasi\Consoleuygulamasi\obj\Debug\Consoleuygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\deniz\source\repos\Consoleuygulamasi\Consoleuygulamasi\obj\Debug\Consoleuygulamasi.exe
+C:\Users\deniz\source\repos\Consoleuygulamasi\Consoleuygulamasi\obj\Debug\Consoleuygulamasi.pdb
